@@ -40,7 +40,7 @@ export default function Navbar() {
                     <button className="font-primary text-primary text-[15px] cursor-pointer">
                         Log in
                     </button>
-                    <button className="font-primary inline-flex text-white text-[15px] cursor-pointer bg-primary group transition hover:bg-zinc-800 items-center gap-1 px-4 py-2.5 rounded-lg">
+                    <button className="font-primary inline-flex text-white text-[15px] cursor-pointer bg-primary group transition hover:bg-zinc-800 items-center gap-1 px-6 py-3 rounded-lg">
                         Sign up
                         <span className="transition-transform duration-200 group-hover:translate-x-1">
                             <svg
