@@ -5,7 +5,7 @@ export default function ListBlog() {
                 <h2 className="font-primary text-primary text-[40px] font-semibold tracking-tight">
                     Explore our stories.
                 </h2>
-                <p className="font-primary text-zinc-600 text-16px font-normal">
+                <p className="font-primary text-zinc-600 text-base font-normal">
                     Discover inspiring stories and fresh perspectives from our
                     community.
                 </p>

@@ -5,7 +5,7 @@ export default function PopularBlog() {
                 <h2 className="font-primary text-primary text-[40px] font-semibold tracking-tight">
                     Popular blog.
                 </h2>
-                <p className="font-primary text-zinc-600 text-16px font-normal">
+                <p className="font-primary text-zinc-600 text-base font-normal">
                     Check out the most popular reads right now.
                 </p>
             </div>
