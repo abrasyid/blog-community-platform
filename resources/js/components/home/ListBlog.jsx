@@ -1,6 +1,6 @@
 export default function ListBlog() {
     return (
-        <div className="px-40 mb-100 mt-12">
+        <div className="px-40 mt-12">
             <div className="-space-y-0.5">
                 <h2 className="font-primary text-primary text-[40px] font-semibold tracking-tight">
                     Explore our stories.
@@ -61,7 +61,7 @@ export default function ListBlog() {
                                     alt=""
                                     className="w-6 h-6 rounded-full object-cover"
                                 />
-                                <p className="ml-2 font-primary text-primary text-[13px] font-normal leading-4.25">
+                                <p className="ml-2 font-primary text-primary text-[13px] font-medium leading-4.25">
                                     Daniel Morgan
                                 </p>
                                 <span className="mx-2 font-primary text-zinc-400">
@@ -99,7 +99,7 @@ export default function ListBlog() {
                                     alt=""
                                     className="w-6 h-6 rounded-full object-cover"
                                 />
-                                <p className="ml-2 font-primary text-primary text-[13px] font-normal leading-4.25">
+                                <p className="ml-2 font-primary text-primary text-[13px] font-medium leading-4.25">
                                     Ethan Walker
                                 </p>
                                 <span className="mx-2 font-primary text-zinc-400">
@@ -137,7 +137,7 @@ export default function ListBlog() {
                                     alt=""
                                     className="w-6 h-6 rounded-full object-cover"
                                 />
-                                <p className="ml-2 font-primary text-primary text-[13px] font-normal leading-4.25">
+                                <p className="ml-2 font-primary text-primary text-[13px] font-medium leading-4.25">
                                     Olivia Bennett
                                 </p>
                                 <span className="mx-2 font-primary text-zinc-400">
@@ -176,7 +176,7 @@ export default function ListBlog() {
                                     alt=""
                                     className="w-6 h-6 rounded-full object-cover"
                                 />
-                                <p className="ml-2 font-primary text-primary text-[13px] font-normal leading-4.25">
+                                <p className="ml-2 font-primary text-primary text-[13px] font-medium leading-4.25">
                                     Maya Anderson
                                 </p>
                                 <span className="mx-2 font-primary text-zinc-400">
@@ -214,7 +214,7 @@ export default function ListBlog() {
                                     alt=""
                                     className="w-6 h-6 rounded-full object-cover"
                                 />
-                                <p className="ml-2 font-primary text-primary text-[13px] font-normal leading-4.25">
+                                <p className="ml-2 font-primary text-primary text-[13px] font-medium leading-4.25">
                                     James Carter
                                 </p>
                                 <span className="mx-2 font-primary text-zinc-400">
@@ -253,7 +253,7 @@ export default function ListBlog() {
                                     alt=""
                                     className="w-6 h-6 rounded-full object-cover"
                                 />
-                                <p className="ml-2 font-primary text-primary text-[13px] font-normal leading-4.25">
+                                <p className="ml-2 font-primary text-primary text-[13px] font-medium leading-4.25">
                                     Sophia Williams
                                 </p>
                                 <span className="mx-2 font-primary text-zinc-400">
