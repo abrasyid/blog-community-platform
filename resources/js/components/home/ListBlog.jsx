@@ -42,7 +42,7 @@ export default function ListBlog() {
                                 alt=""
                                 className="w-full h-64 object-cover rounded-[14px]"
                             />
-                            <span className="absolute left-3 top-3 rounded-full bg-white border border-zinc-200 px-3 py-1.5 font-primary text-[13px] font-medium text-primary">
+                            <span className="absolute left-3 top-3 rounded-lg bg-white/10 border border-white/20 backdrop-blur-sm px-2 py-1 font-primary text-xs font-medium text-white">
                                 Career
                             </span>
                         </div>
@@ -80,7 +80,7 @@ export default function ListBlog() {
                                 alt=""
                                 className="w-full h-64 object-cover rounded-[14px]"
                             />
-                            <span className="absolute left-3 top-3 rounded-full bg-white border border-zinc-200 px-3 py-1.5 font-primary text-[13px] font-medium text-primary">
+                            <span className="absolute left-3 top-3 rounded-lg bg-white/10 border border-white/20 backdrop-blur-sm px-2 py-1 font-primary text-xs font-medium text-white">
                                 Technology
                             </span>
                         </div>
@@ -118,7 +118,7 @@ export default function ListBlog() {
                                 alt=""
                                 className="w-full h-64 object-cover rounded-[14px]"
                             />
-                            <span className="absolute left-3 top-3 rounded-full bg-white border border-zinc-200 px-3 py-1.5 font-primary text-[13px] font-medium text-primary">
+                            <span className="absolute left-3 top-3 rounded-lg bg-white/10 border border-white/20 backdrop-blur-sm px-2 py-1 font-primary text-xs font-medium text-white">
                                 Lifestyle
                             </span>
                         </div>
@@ -156,7 +156,7 @@ export default function ListBlog() {
                                 alt=""
                                 className="w-full h-64 object-cover rounded-[14px]"
                             />
-                            <span className="absolute left-3 top-3 rounded-full bg-white border border-zinc-200 px-3 py-1.5 font-primary text-[13px] font-medium text-primary">
+                            <span className="absolute left-3 top-3 rounded-lg bg-white/10 border border-white/20 backdrop-blur-sm px-2 py-1 font-primary text-xs font-medium text-white">
                                 Culture
                             </span>
                         </div>
@@ -195,7 +195,7 @@ export default function ListBlog() {
                                 alt=""
                                 className="w-full h-64 object-cover rounded-[14px]"
                             />
-                            <span className="absolute left-3 top-3 rounded-full bg-white border border-zinc-200 px-3 py-1.5 font-primary text-[13px] font-medium text-primary">
+                            <span className="absolute left-3 top-3 rounded-lg bg-white/10 border border-white/20 backdrop-blur-sm px-2 py-1 font-primary text-xs font-medium text-white">
                                 Business
                             </span>
                         </div>
@@ -233,7 +233,7 @@ export default function ListBlog() {
                                 alt=""
                                 className="w-full h-64 object-cover rounded-[14px]"
                             />
-                            <span className="absolute left-3 top-3 rounded-full bg-white border border-zinc-200 px-3 py-1.5 font-primary text-[13px] font-medium text-primary">
+                            <span className="absolute left-3 top-3 rounded-lg bg-white/10 border border-white/20 backdrop-blur-sm px-2 py-1 font-primary text-xs font-medium text-white">
                                 Social
                             </span>
                         </div>
