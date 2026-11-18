@@ -1,13 +1,37 @@
 export default function LatestBlog() {
     return (
         <div className="px-40 mt-32 mb-300">
-            <div className="-space-y-0.5">
-                <h2 className="font-primary text-primary text-[40px] font-semibold tracking-tight">
-                    What's new this week.
-                </h2>
-                <p className="font-primary text-zinc-600 text-16px font-normal">
-                    The newest stories to keep you inspired.
-                </p>
+            <div className="flex justify-between">
+                <div className="-space-y-0.5">
+                    <h2 className="font-primary text-primary text-[40px] font-semibold tracking-tight">
+                        What's new this week.
+                    </h2>
+                    <p className="font-primary text-zinc-600 text-16px font-normal">
+                        The newest stories to keep you inspired.
+                    </p>
+                </div>
+                <div className="self-center">
+                    <button className="inline-flex font-primary text-primary bg-white border border-zinc-200 group transition-colors duration-500 hover:text-white hover:bg-primary hover:border-primary text-sm font-medium px-5 py-2.5 gap-1 items-center rounded-xl cursor-pointer">
+                        See the latest
+                        <span className="transition-transform duration-200 group-hover:translate-x-1">
+                            <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="18"
+                                height="18"
+                                viewBox="0 0 24 24"
+                            >
+                                <path
+                                    fill="none"
+                                    stroke="currentColor"
+                                    stroke-linecap="round"
+                                    stroke-linejoin="round"
+                                    stroke-width="2"
+                                    d="M5 12h14m-6 6l6-6m-6-6l6 6"
+                                />
+                            </svg>
+                        </span>
+                    </button>
+                </div>
             </div>
             <div className="mt-10 grid grid-cols-4 gap-x-7">
                 <div className="space-y-4">

@@ -52,7 +52,7 @@ export default function PopularBlog() {
                             className="w-34 h-30 object-cover rounded-2xl"
                         />
                         <div className="flex flex-col pb-1 pt-0.5">
-                            <p className="self-start rounded-full bg-zinc-100 px-2.5 py-1 font-primary text-xs font-medium text-zinc-500">
+                            <p className="self-start rounded-full bg-zinc-100 px-2.5 py-1 font-primary text-xs font-medium text-zinc-600">
                                 Technology
                             </p>
                             <h3 className="mt-2 font-primary text-primary font-semibold text-lg tracking-tight leading-6">
@@ -78,7 +78,7 @@ export default function PopularBlog() {
                             className="w-34 h-30 object-cover rounded-2xl"
                         />
                         <div className="flex flex-col pb-1 pt-0.5">
-                            <p className="self-start rounded-full bg-zinc-100 px-2.5 py-1 font-primary text-xs font-medium text-zinc-500">
+                            <p className="self-start rounded-full bg-zinc-100 px-2.5 py-1 font-primary text-xs font-medium text-zinc-600">
                                 Career
                             </p>
                             <h3 className="mt-2 font-primary text-primary font-semibold text-lg tracking-tight leading-6">
@@ -104,7 +104,7 @@ export default function PopularBlog() {
                             className="w-34 h-30 object-cover rounded-2xl"
                         />
                         <div className="flex flex-col pb-1 pt-0.5">
-                            <p className="self-start rounded-full bg-zinc-100 px-2.5 py-1 font-primary text-xs font-medium text-zinc-500">
+                            <p className="self-start rounded-full bg-zinc-100 px-2.5 py-1 font-primary text-xs font-medium text-zinc-600">
                                 Culture
                             </p>
                             <h3 className="mt-2 font-primary text-primary font-semibold text-lg tracking-tight leading-6">
@@ -130,7 +130,7 @@ export default function PopularBlog() {
                             className="w-34 h-30 object-cover rounded-2xl"
                         />
                         <div className="flex flex-col pb-1 pt-0.5">
-                            <p className="self-start rounded-full bg-zinc-100 px-2.5 py-1 font-primary text-xs font-medium text-zinc-500">
+                            <p className="self-start rounded-full bg-zinc-100 px-2.5 py-1 font-primary text-xs font-medium text-zinc-600">
                                 Business
                             </p>
                             <h3 className="mt-2 font-primary text-primary font-semibold text-lg tracking-tight leading-6">

@@ -21,13 +21,13 @@ export default function Navbar() {
                         href=""
                         className="font-primary text-primary text-[15px] font-normal"
                     >
-                        Latest
+                        Popular
                     </a>
                     <a
                         href=""
                         className="font-primary text-primary text-[15px] font-normal"
                     >
-                        Popular
+                        Latest
                     </a>
                     <a
                         href=""
@@ -40,7 +40,7 @@ export default function Navbar() {
                     <button className="font-primary text-primary text-[15px] cursor-pointer">
                         Log in
                     </button>
-                    <button className="font-primary inline-flex text-white text-[15px] cursor-pointer bg-primary group transition hover:bg-zinc-800 items-center gap-1 px-5 py-3 rounded-lg">
+                    <button className="font-primary inline-flex text-white text-[15px] cursor-pointer bg-primary group transition hover:bg-zinc-800 items-center gap-1 px-5 py-3 rounded-xl">
                         Sign up
                         <span className="transition-transform duration-200 group-hover:translate-x-1">
                             <svg
