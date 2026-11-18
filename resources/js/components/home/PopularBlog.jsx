@@ -1,9 +1,14 @@
 export default function PopularBlog() {
     return (
-        <div className="px-40 mt-48 mb-100">
-            <h2 className="font-primary text-primary text-[40px] font-semibold tracking-tight">
-                Popular blog.
-            </h2>
+        <div className="px-40 mt-30">
+            <div className="-space-y-0.5">
+                <h2 className="font-primary text-primary text-[40px] font-semibold tracking-tight">
+                    Popular blog.
+                </h2>
+                <p className="font-primary text-zinc-600 text-16px font-normal">
+                    Check out the most popular reads right now.
+                </p>
+            </div>
             <div className="mt-10 flex flex-row space-x-6">
                 <div className="relative w-3/5 overflow-hidden rounded-2xl">
                     <img
