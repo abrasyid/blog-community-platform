@@ -33,7 +33,7 @@ export default function Navbar() {
                         href=""
                         className="font-primary text-primary text-[15px] font-normal"
                     >
-                        Tag
+                        Category
                     </a>
                 </div>
                 <div className="space-x-3 justify-self-end">
