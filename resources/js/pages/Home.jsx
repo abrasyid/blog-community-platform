@@ -4,6 +4,7 @@ import ListBlog from "../components/home/ListBlog";
 import PopularBlog from "../components/home/PopularBlog";
 import LatestBlog from "../components/home/LatestBlog";
 import Category from "../components/home/Category";
+import Subscribe from "../components/home/Subscribe";
 
 export default function Home() {
     return (
@@ -14,6 +15,7 @@ export default function Home() {
                 <PopularBlog></PopularBlog>
                 <LatestBlog></LatestBlog>
                 <Category></Category>
+                <Subscribe></Subscribe>
             </Main>
         </div>
     );

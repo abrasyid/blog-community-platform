@@ -1,6 +1,6 @@
 export default function Category() {
     return (
-        <div className="px-40 mt-30 mb-200">
+        <div className="px-40 mt-30">
             <div className="bg-[#1c1c1c] px-12 pt-14 pb-12 rounded-[28px]">
                 <span className="rounded-full border border-white/20 bg-white/10 px-4 py-2 font-primary text-[13px] font-medium tracking-wide text-white backdrop-blur-sm">
                     Explore categories
