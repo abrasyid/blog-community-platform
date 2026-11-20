@@ -1,6 +1,6 @@
 export default function Subscribe() {
     return (
-        <div className="px-40 mt-50 mb-200 justify-items-center">
+        <div className="px-40 mt-40 justify-items-center">
             <div className="border-t border-zinc-200 relative h-180 w-full">
                 <img
                     src="/assets/blogs/subscribe.svg"
